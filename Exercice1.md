@@ -27,7 +27,8 @@ Ce sont des PC dont le system exploitation Linux installé dessus est un Ubuntu.
 A est un switch. C'est un commutateur qui connecte plusieurs appareils ensemble et leur permet d'échanger des données entre eux dans un même réseau ou vers un autre réseau.  
 B est un OS qui fait office de firewall et routeur.
 
-**6. Peut-on considérer que **Ubuntu-2** est connecté directement à **em1** de l'équipement pfSense ?**
+**6. Peut-on considérer que **Ubuntu-2** est connecté directement à **em1** de l'équipement pfSense ?**  
+
 Non. Ubuntu-2 est connecté à em1 via le switch.​
 
 <br><br>
